@@ -12,7 +12,7 @@ IDE: VS-Code
 
 ### Industry :
 
-Social Media 
+Lifestyle 
 
 
 ### Project Title :
