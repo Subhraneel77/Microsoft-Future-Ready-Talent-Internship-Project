@@ -31,7 +31,7 @@ Core Idea of Project is to build an sample prototype Social Media Website with M
 
 ### Primary Azure Technology :
 
-Azure Video Analysis, Analytics, Static Web Apps, Apps Service
+Azure Video Analyzer, Analytics, Static Web Apps, Apps Service
 
 
 Other Azure Technologies :
