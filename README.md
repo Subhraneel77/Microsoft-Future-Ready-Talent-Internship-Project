@@ -2,7 +2,7 @@
 
 This is the project created for Microsoft Future Ready Talent Virtual Internship Program
 
-# <a href="https://ashy-forest-0978d2910.azurestaticapps.net/index.html">niS Social Media</a>
+# <a href="https://subhraneel77.github.io/Microsoft-Future-Ready-Talent-Internship-Project/">niS Social Media</a>
 
 This is Social media webiste where you can accept or decline any followers, see and comment on several posts, can follow different accounts etc.
 
